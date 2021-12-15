@@ -1,6 +1,6 @@
 # starup_namer
 
-A new Flutter project.
+A new Flutter project to follow https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
 
 ## Getting Started
 
